@@ -314,7 +314,7 @@ I may not have time to do all of these for every subject, but I'll try.
 
 You can see my code here:
  - [C] (https://github.com/chrismorse/practice-c)
- - [C#] (https://github.com/chrismorse/practice-python)
+ - [C#] (https://github.com/chrismorse/practice-csharp)
 
 You don't need to memorize the guts of every algorithm.
 
@@ -322,6 +322,13 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 
 ## Prerequisite Knowledge
 
+- [ ] **Master C#**
+	- This is my language of choice for the interview.  I need to know it inside out.
+		Generics,Iterators, inheritance e
+	- [ ] https://www.youtube.com/playlist?list=PLGLfVvz_LVvRX6xK1oi0reKci6ignjdSa
+	- [ ] Book - C# in depth. (https://www.amazon.com/gp/product/161729134X/)
+		
+		
 - [ ] **Learn C**
     - C is everywhere. You'll see examples in books, lectures, videos, *everywhere* while you're studying.
     - [ ] [C Programming Language, Vol 2](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628)
@@ -336,7 +343,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 - nothing to implement
 - [x] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
-- [ ] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
+- [x] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
 - [ ] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [ ] Skiena:
     - [video](https://www.youtube.com/watch?v=gSyDMtdPNpU&index=2&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
@@ -1250,6 +1257,7 @@ Challenge sites:
 - [Geeks for Geeks](http://www.geeksforgeeks.org/)
 - [InterviewBit](https://www.interviewbit.com/invite/icjf)
 - [Sphere Online Judge (spoj)](http://www.spoj.com/)
+- [Glassdoor - real interview questions] (http://www.glassdoor.com)
 
 Mock Interviews:
 - [Gainlo.co: Mock interviewers from big companies](http://www.gainlo.co/)

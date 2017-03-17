@@ -2,11 +2,9 @@
 
 ## What is it?
 
-This is my multi-month study to become a software engineer (or manager) for a large tech company.  
+This is my multi-month study to become a software engineering manager for a large tech company.  
 
 I have taken the last couple of years off from the working world to focus on investing and startups.   Its time to head back to work.
-
-This is taken and revised from this awesome guide:  https://github.com/jwasham/coding-interview-university.    
 
 I have a CS degree but its been a while.   I also have lots of dev management experience.  Still I feel the imposter syndrome and I want to be better... so I am diving in.
 
@@ -68,6 +66,8 @@ I have a CS degree but its been a while.   I also have lots of dev management ex
     - [Endianness](#endianness)
 - [Networking](#networking)
 - [System Design, Scalability, Data Handling](#system-design-scalability-data-handling) (if you have 4+ years experience)
+- [Other Relevant Technologies] (#other-relevant-technologies)
+
 - [Final Review](#final-review)
 - [Coding Question Practice](#coding-question-practice)
 - [Coding exercises/challenges](#coding-exerciseschallenges)
@@ -1129,6 +1129,20 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
         - [Design a URL-shortener system: copied from above](http://www.hiredintech.com/system-design/the-system-design-process/)
         - [Design a cache system](https://www.adayinthelifeof.nl/2011/02/06/memcache-internals/)
 
+
+## Other Relevant Technologies
+- [ ] Micro services 	
+- [ ] Distributed computing
+- [ ] Restful APIs
+- [ ] Unified logs - Kenises & Kafka
+- [ ] Docker 
+- [ ] Node package management
+- [ ] Kubernetes 
+- [ ] Functional programming - immutability
+- [ ] Scala
+		
+		
+		
 ---
 
 ## Final Review

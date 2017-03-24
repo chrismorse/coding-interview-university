@@ -2,9 +2,10 @@
 
 ## What is it?
 
-This is my multi-month study to become a software engineering manager for a large tech company.  
+This is my multi-month study to become a software engineering manager or director for a large tech company.  
 
-I have taken the last couple of years off from the working world to focus on investing and startups.   Its time to head back to work.
+I have a CS degree and I have been building internet software since 1996.  A lot of this is review but fundamentals are always worth a review IMO.
+
 
 
 ---

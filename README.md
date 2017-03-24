@@ -6,7 +6,6 @@ This is my multi-month study to become a software engineering manager for a larg
 
 I have taken the last couple of years off from the working world to focus on investing and startups.   Its time to head back to work.
 
-I have a CS degree but its been a while.   I also have lots of dev management experience.  Still I feel the imposter syndrome and I want to be better... so I am diving in.
 
 ---
 
@@ -1023,7 +1022,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
         - simplicity and robustness
         - tradeoffs
         - performance analysis and optimization
-- [ ] **START HERE**: [System Design from HiredInTech](http://www.hiredintech.com/system-design/)
+- [x] **START HERE**: [System Design from HiredInTech](http://www.hiredintech.com/system-design/)
 - [ ] [How Do I Prepare To Answer Design Questions In A Technical Inverview?](https://www.quora.com/How-do-I-prepare-to-answer-design-questions-in-a-technical-interview?redirected_qid=1500023)
 - [ ] [8 Things You Need to Know Before a System Design Interview](http://blog.gainlo.co/index.php/2015/10/22/8-things-you-need-to-know-before-system-design-interviews/)
 - [ ] [Algorithm design](http://www.hiredintech.com/algorithm-design/)
